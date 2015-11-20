@@ -1,5 +1,7 @@
 # Painters
 
+Learn about Renaissance artists and their paintings.
+
 ```
 Technologies
 - JavaScript
