@@ -1,0 +1,21 @@
+.makeRed {
+  color: red;
+}
+
+#leftCol {
+  background-color: pink;
+  float:left;
+  width: 33%;
+}
+
+#middleCol {
+  background-color: red;
+  float:left;
+  width: 33%;
+}
+
+#rightCol {
+  background-color: pink;
+  float:left;
+  width: 33%;
+}
